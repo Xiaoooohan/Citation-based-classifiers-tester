@@ -13,7 +13,7 @@ forward gap. See [reports/report_ieee.tex](reports/report_ieee.tex) (IEEE 2-colu
 
 **Try the live screener:** open [reports/screener.html](reports/screener.html) in any browser. No server required — 270 HCI test papers with all four scores side-by-side, sortable and filterable by quadrant, with the impact-vs-novelty caveat surfaced inline.
 
-## Proposal-to-final pivot (read this first)
+## Proposal-to-final pivot [Adjusted from GSI's Comment]
 
 The proposal targeted a "concept-introducing paper detector" using a hybrid
 weak-/gold-label scheme. After the GSI flagged that weak novelty labels are

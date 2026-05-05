@@ -1,6 +1,6 @@
 # Temporal NLP Pipeline — Impact vs. Novelty in HCI Papers
 
-**STATS 507 Final Project — Xiaohan Ye, April 2026.**
+**Xiaohan Ye, April 2026.**
 
 Trains TF-IDF and Sentence-BERT (MiniLM) classifiers to predict highly-cited
 HCI papers, then **probes what those classifiers actually measure** with two
